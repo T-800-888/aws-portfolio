@@ -10,14 +10,14 @@ Este é o repositório que reuni meus projetos relacionados aos cursos AWS:
    API Serverless (Lambda + DynamoDB) - https://github.com/T-800-888/aws-serverless-api
 
 3. Arquitetura (Solutions Architect - Associate)
-   Aplicação Web Escalável (EC2 + RDS + S3) - https://github.com/T-800-888/aws-scalable-web-app
+   Aplicação Web Escalável (API Gateway + DynamoDB + S3) - https://github.com/T-800-888/aws-scalable-web-app
 
 4. Machine Learning (Machine Learning - Specialty)
-   Classificador de Imagens com SageMaker - https://github.com/T-800-888/aws-image-classifier
+   Classificador de Imagens com SageMaker Studio Lab - https://github.com/T-800-888/aws-image-classifier
 
 
 Foram usadas:
-- AWS (S3, Lambda, API Gateway, DynamoDB, EC2, RDS, SageMaker)
+- AWS (S3, Lambda, API Gateway, DynamoDB, SageMaker Studio Lab)
 - Python
 - HTML, CSS
 - CI/CD (CodePipeline)
